@@ -1,31 +1,31 @@
-# GuardRail OSS - Open Source Ai Guidance & Analysis API 
-![Guardrail](https://github.com/ruvnet/guardrail/blob/main/assets/guardrail.png?raw=true)
+# CyberRail OSS - Open Source Ai Relevance, Guidance & Analysis API 
+![CyberRail](https://github.com/cyberiumabc/cyberrail/blob/main/assets/cyberrail.png?raw=true)
 
-## 🧭 The GuardRail system combined with AiEQ advances responsible AI with robust data analysis and emotional intelligence, equipping AI with a moral compass.
+## 🧭 The CyberRail system combined with AiEQ advances responsible AI with robust data analysis and emotional intelligence, equipping AI with a moral compass.
 
-GuardRail is an Open Source API-driven framework, designed to enhance responsible AI systems and workflows, providing advanced data analysis and dynamic conditional completions. This makes it essential for refining AI-powered outputs, increasing their quality and relevance. AiEQ, or Artificial Emotional Intelligence, complements this by equipping AI with the ability to interpret and respond to emotional contexts (EQ), adding a layer of empathy and ethical understanding. This synergy between GuardRail's technical enhancement capabilities and AiEQ's emotional intelligence introduces a new standard in AI, making it more adaptable, responsive, and attuned to human nuances.
+CyberRail is an Open Source API-driven framework, designed to enhance responsible AI systems and workflows, providing advanced data analysis and dynamic conditional completions. This makes it essential for refining AI-powered outputs, increasing their quality and relevance. AiEQ, or Artificial Emotional Intelligence, complements this by equipping AI with the ability to interpret and respond to emotional contexts (EQ), adding a layer of empathy and ethical understanding. This synergy between CyberRail's technical enhancement capabilities and AiEQ's emotional intelligence introduces a new standard in AI, making it more adaptable, responsive, and attuned to human nuances.
 
 ### Test API For Free (more than 50 advanced traits & guiderails)
-- https://rapidapi.com/ruv/api/guardrail
+- https://app.cyberium.info/pubapi/rail
 
 ### OpenAI ChatGPT GPT
-- https://chat.openai.com/g/g-6Bvt5pJFf-guardrail 
+- https://chat.openai.com/g/g-6Bvt5pJFf-CyberRail 
 
 ## AiEQ 
 ### AiEQ infuses AI with emotional, psychological, and ethical intelligence kind of internal voice, essential for understanding and empathizing with human users.
 
 AiEQ is a pioneering concept in AI, introducing an 'inner voice' that allows AI to perceive and interpret emotions, akin to human emotional intelligence. This model enables AI to transcend traditional data processing, allowing it to empathize with human emotions and respond accordingly. AiEQ's ability to navigate through emotional nuances and understand the subtleties of human psychology is pivotal in creating AI that is not just efficient but also emotionally attuned and ethically responsible.
 
-### GuardRails
+### CyberRails
 
-Complementing AiEQ is the GuardRail open source guidance system. This versatile framework integrates seamlessly with AI models, including AiEQ, to provide advanced data analysis, sentiment analysis, content classification, and trend detection. GuardRail's role extends beyond mere analysis; it is instrumental in ensuring Responsible AI (RAI) practices. 
+Complementing AiEQ is the CyberRail open source guidance system. This versatile framework integrates seamlessly with AI models, including AiEQ, to provide advanced data analysis, sentiment analysis, content classification, and trend detection. CyberRail's role extends beyond mere analysis; it is instrumental in ensuring Responsible AI (RAI) practices. 
 
-It offers tools and guidelines for mitigating bias, and addressing psychological, ethical, and emotional considerations in AI development and deployment. GuardRail's adaptability makes it invaluable in various applications, from content moderation and customer support to market research and mental health, ensuring AI contributions are not only high-quality but also ethically sound and emotionally relevant.
+It offers tools and guidelines for mitigating bias, and addressing psychological, ethical, and emotional considerations in AI development and deployment. CyberRail's adaptability makes it invaluable in various applications, from content moderation and customer support to market research and mental health, ensuring AI contributions are not only high-quality but also ethically sound and emotionally relevant.
 
-Together, AiEQ and the GuardRail Data Analysis system embody a comprehensive approach to responsible AI development. GuardRail complements this by offering an API-driven framework that not only enhances AI capabilities but also ensures their ethical application and mitigates biases. This powerful combination guarantees that AI systems are technically advanced, ethically responsible, and emotionally attuned, setting a new standard for AI as a trusted, empathetic partner in diverse aspects of human life.
+Together, AiEQ and the CyberRail Data Analysis system embody a comprehensive approach to responsible AI development. CyberRail complements this by offering an API-driven framework that not only enhances AI capabilities but also ensures their ethical application and mitigates biases. This powerful combination guarantees that AI systems are technically advanced, ethically responsible, and emotionally attuned, setting a new standard for AI as a trusted, empathetic partner in diverse aspects of human life.
 
-## AI Guardrails
-AI Guardrails, as implemented in the GuardRail Script & API, are a set of advanced mechanisms and protocols designed to regulate and oversee the performance of AI systems, particularly in generating and analyzing text. The primary purpose of these guardrails is to ensure that the AI operates within a predefined ethical and quality framework, producing results that are not only accurate but also align with societal norms and values.
+## AI CyberRails
+AI CyberRails, as implemented in the CyberRail Script & API, are a set of advanced mechanisms and protocols designed to regulate and oversee the performance of AI systems, particularly in generating and analyzing text. The primary purpose of these CyberRails is to ensure that the AI operates within a predefined ethical and quality framework, producing results that are not only accurate but also align with societal norms and values.
 
 ## 🌟 Key Features and Capabilities
 
